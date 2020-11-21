@@ -1,6 +1,12 @@
 * {
+	background-color: darkslategray;
 }
+
+button {
+	color: aliceblue;
+	background-color: blueviolet;
+}
+
 .App {
 	text-align: center;
-	background-color: #282c34;
 }
