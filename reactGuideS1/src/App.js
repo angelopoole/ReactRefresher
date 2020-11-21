@@ -36,7 +36,7 @@ function App() {
 		<div className='App'>
 			<h1>Hi im a React app</h1>
 			<h1>page timer -> {counter}</h1>
-			<p> -> {listAllPeople(people)}</p>
+			<div> -> {listAllPeople(people)}</div>
 		</div>
 	);
 }
